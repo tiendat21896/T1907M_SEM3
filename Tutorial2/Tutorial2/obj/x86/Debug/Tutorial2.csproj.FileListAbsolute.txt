@@ -1,0 +1,9 @@
+C:\Users\tiend\source\repos\Tutorial2\Tutorial2\obj\x86\Debug\Tutorial2.csprojAssemblyReference.cache
+C:\Users\tiend\source\repos\Tutorial2\Tutorial2\obj\x86\Debug\App.g.i.cs
+C:\Users\tiend\source\repos\Tutorial2\Tutorial2\obj\x86\Debug\App.g.cs
+C:\Users\tiend\source\repos\Tutorial2\Tutorial2\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\tiend\source\repos\Tutorial2\Tutorial2\obj\x86\Debug\MainPage.g.cs
+C:\Users\tiend\source\repos\Tutorial2\Tutorial2\obj\x86\Debug\App.xaml
+C:\Users\tiend\source\repos\Tutorial2\Tutorial2\obj\x86\Debug\MainPage.xaml
+C:\Users\tiend\source\repos\Tutorial2\Tutorial2\obj\x86\Debug\App.xbf
+C:\Users\tiend\source\repos\Tutorial2\Tutorial2\obj\x86\Debug\MainPage.xbf

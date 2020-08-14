@@ -1,4 +1,9 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\Universal",
+    "\\Universal\\Universal"
+  ],
+  "SelectedNode": "\\Universal\\Universal\\MainPage.xaml",
   "PreviewInSolutionExplorer": false
 }
