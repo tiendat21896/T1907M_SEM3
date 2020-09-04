@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tiend\\source\\repos\\T1907M_SEM3\\UWPPractical\\UWPPractical\\UWPPractical.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tiend\\source\\repos\\T1907M_SEM3\\UWPPractical\\UWPPractical\\UWPPractical.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiend\\source\\repos\\T1907M_SEM3\\UWPPractical\\UWPPractical\\UWPPractical.csproj",
+        "projectName": "UWPPractical",
+        "projectPath": "C:\\Users\\tiend\\source\\repos\\T1907M_SEM3\\UWPPractical\\UWPPractical\\UWPPractical.csproj",
+        "packagesPath": "C:\\Users\\tiend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiend\\source\\repos\\T1907M_SEM3\\UWPPractical\\UWPPractical\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tiend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.10586"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.10586": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.10586": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.10, )"
+            },
+            "SQLite.Net-PCL": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

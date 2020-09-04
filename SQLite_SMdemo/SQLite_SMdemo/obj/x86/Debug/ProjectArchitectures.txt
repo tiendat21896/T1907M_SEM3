@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\SQLite_SMdemo\DataAccessLibrary\DataAccessLibrary.csproj;x86
+C:\Users\Admin\source\repos\SQLite_SMdemo\SQLite_SMdemo\SQLite_SMdemo.csproj;x86
